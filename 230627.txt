@@ -1,0 +1,13 @@
+1. Definition
+    1) RFP
+        - A request for proposal (RFP) is a business document that announces a progect, describe it, and solicits bids from qualified contractors to complete it.\
+    2) Milestone
+        - An important point in progress or development. 
+
+2. Process
+    1) When starting national project
+        - 1st step : Check goverment announcement
+        - 2nd step : prepare RFP
+        - 3rd step : prepare a business plan
+        <if successful to win business, go to the next step.>
+        - 4th step : make a time table according to the business plan
